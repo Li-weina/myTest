@@ -1,3 +1,4 @@
+--no-merges
 origin
 rebase
 seconde amend
