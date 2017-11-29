@@ -1,2 +1,5 @@
+git add -i
 add dev.txt
-
+hell world
+this git add -i
+hahah
