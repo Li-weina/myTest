@@ -1,1 +1,4 @@
-add a new file
+--no-merges
+merge
+add a new txt
+

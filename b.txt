@@ -1,1 +1,5 @@
+--no-merges
+origin
+rebase
+seconde amend
 push reomte name
