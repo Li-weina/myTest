@@ -1,3 +1,4 @@
+merge base
 --no-merges
 merge
 add a new txt
