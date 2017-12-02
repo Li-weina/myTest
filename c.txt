@@ -1,3 +1,4 @@
+master conflict
 origin
 rebase
 a branch pull remote origin
